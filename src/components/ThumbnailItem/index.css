@@ -1,0 +1,14 @@
+.thumbnail-item {
+  list-style-type: none;
+}
+.thumbnail {
+  opacity: 0.5;
+}
+.active-thumbnail {
+  opacity: 1;
+}
+.button {
+  border-width: 0;
+  outline: none;
+  cursor: pointer;
+}
